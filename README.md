@@ -9,3 +9,6 @@ When running as part of your Zeek installation this plugin will produce two log 
 ## Sharing and Contributing
 
 This code is made available under the [BSD-3-Clause license](https://github.com/amzn/zeek-plugin-profinet/blob/master/LICENSE). [Guidelines for contributing](https://github.com/amzn/zeek-plugin-profinet/blob/master/CONTRIBUTING.md) are available as well as a [pull request template](https://github.com/amzn/zeek-plugin-profinet/blob/master/.github/PULL_REQUEST_TEMPLATE.md). A [Dockerfile](https://github.com/amzn/zeek-plugin-profinet/blob/master/Dockerfile) has been included in the repository to assist with setting up an environment for testing any changes to the plugin.
+
+## Changelog
+21st August 2023: Changed minimum CMake version from 3.0 to 3.15
